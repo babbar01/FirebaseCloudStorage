@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614783287043",
+    "firebase_url": "https://fir-storage-f6274.firebaseio.com",
+    "project_id": "fir-storage-f6274",
+    "storage_bucket": "fir-storage-f6274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614783287043:android:4ab9c008031d58576fb336",
+        "android_client_info": {
+          "package_name": "com.example.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614783287043-vkibtco2d5fq508961k13s9svdp56da2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasestorage",
+            "certificate_hash": "0b78608389120e6ec5c939cf5d513f4c0eb81088"
+          }
+        },
+        {
+          "client_id": "614783287043-qif2vam7d39jk4bkhogke4cjcoad6qjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu2xzKGSqudlrIsG_PwFj2jB62R3EsMgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614783287043-qif2vam7d39jk4bkhogke4cjcoad6qjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
